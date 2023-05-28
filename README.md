@@ -2,19 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 <br><br><br>
 It offers user three ways to login:
 <br><b>1. Registering and Login:</b> The interfaces offer user a way to login via registering first. When registering, three things are asked, fullname or username, Email you want to have, Password of your choice but at least 6 letters long. Then you can immediately log in via using the same email and password.
@@ -30,3 +17,16 @@ The User goes to second screen called the "UserSCreen" where user sees the notes
 <br> User can logout then.
 <br><br>
 <b>Note:</b> App id, token id and other important values has been changed, so please use you own.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
