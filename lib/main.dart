@@ -13,10 +13,10 @@ void main()
   async{
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    options: FirebaseOptions(apiKey: "AIzaSyCN9S7iCM-uEo4pJO3wOYZ7B-jHEnVumYg", appId: "1:947863918813:android:19a986bfb515eb0044a334", messagingSenderId: "947863918813", projectId: "notes-app-1810b"),
+    options: FirebaseOptions(apiKey: "AIzaSyCN9S7iCM-uEo4pJO3wOYZ7B-jHYg", appId: "1:947863918813:android:19a986044a334", messagingSenderId: "943918813", projectId: "note18b"),
   );
   FacebookAuth.instance.webAndDesktopInitialize(
-        appId: "1970701713276558", cookie: false, xfbml: true, version: 'v2.7');
+        appId: "19707017158", cookie: false, xfbml: true, version: 'v2.7');
    runApp(notesapp());
   }
   
