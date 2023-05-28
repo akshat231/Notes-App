@@ -18,6 +18,15 @@ The User goes to second screen called the "UserSCreen" where user sees the notes
 <br><br>
 <b>Note:</b> App id, token id and other important values has been changed, so please use you own.
 
+<br><br><br>Here is the Login Page: 
+![Screenshot 2023-05-29 014837](https://github.com/akshat231/Notes-App/assets/56781907/4a3284e7-1ed6-4cbe-9a6d-8ea7e41dc08a)
+<br><br><br>Here is the Register Page:
+![Screenshot 2023-05-29 014912](https://github.com/akshat231/Notes-App/assets/56781907/ddf7fc24-5dff-4079-bece-013dbacbb5a7)
+<br><br><br>Here is the User Page: 
+![Screenshot 2023-05-29 015158](https://github.com/akshat231/Notes-App/assets/56781907/bf655dc1-3966-49c8-834f-ad5c4705fee8)
+<br><br><br>Here is the Note Page: 
+![Screenshot 2023-05-29 015252](https://github.com/akshat231/Notes-App/assets/56781907/2c5d322c-e17c-44c4-aa02-4fa34cbf7ee8)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
