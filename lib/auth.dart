@@ -52,7 +52,7 @@ class Authorization {
     try {
       final GoogleSignIn _googleSignIn = GoogleSignIn(
           clientId:
-              "947863918813-v1l9s5uvn2c6mcf96nli18885kseg190.apps.googleusercontent.com");
+              "947863918813-v1l9s5uvn2c65kseg190.apps.googleusercontent.com");
       final result = await _googleSignIn.signIn();
       gl = true;
       fb = false;
@@ -75,7 +75,7 @@ class Authorization {
   static Future<int> googlesignout(context) async {
     await GoogleSignIn(
             clientId:
-                "947863918813-v1l9s5uvn2c6mcf96nli18885kseg190.apps.googleusercontent.com")
+                "947863918813-v1l0.apps.googleusercontent.com")
         .signOut();
     Navigator.pop(context);
     return 2;
