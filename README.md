@@ -34,6 +34,10 @@ The User goes to second screen called the "UserSCreen" where user sees the notes
 
 ![Screenshot 2023-05-29 015252](https://github.com/akshat231/Notes-App/assets/56781907/2c5d322c-e17c-44c4-aa02-4fa34cbf7ee8)
 
+<br><br>
+It has been deployed on firebase:
+https://notes-app-1810b.web.app/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
